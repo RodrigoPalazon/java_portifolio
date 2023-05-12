@@ -6,9 +6,9 @@ public class Lesson02_PrimitiveTypes {
         int age = 10;
         long longTypeNumber = 10000;
         double salaryDoubleType = 2000;
-        float salaryFloatType = 2500;
+        float salaryFloatType = 2500.55F;
         byte ageByte = 127;
-        short ageShort = 8;
+        short ageShort = 32000;
         boolean booleanTrue = true;
         boolean booleanFalse = false;
         char charType = 65;
