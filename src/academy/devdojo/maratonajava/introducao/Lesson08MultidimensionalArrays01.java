@@ -23,5 +23,13 @@ public class Lesson08MultidimensionalArrays01 {
             }
         }
 
+
+//        for each
+        System.out.println("For each array:");
+        for(int[] baseArray: days){
+             for(int num: baseArray) {
+                 System.out.println(num);
+             }
+        }
     }
 }
