@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Lesson08MultidimensionalArrays01 {
+public class Lesson08_MultidimensionalArrays01 {
     public static void main(String[] args) {
 
 
