@@ -18,7 +18,7 @@ public class Lesson08MultidimensionalArrays01 {
         days[2][2] = 2;
 
         for(int i = 0 ; i< days.length; i++){
-            for(int j=0; j < days[0].length; j++) {
+            for(int j=0; j < days[i].length; j++) {
                 System.out.println(days[i][j]);
             }
         }
