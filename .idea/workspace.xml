@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson08_MultidimensionalArrays02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/classesintroduction/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/classesintroduction/test/StudentTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson08MultidimensionalArrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson08_MultidimensionalArrays01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson08_MultidimensionalArrays02">
-    <configuration name="Lesson07_Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson07_Arrays01" />
-      <module name="java_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StudentTest01">
     <configuration name="Lesson07_Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson07_Arrays02" />
       <module name="java_fundamentals" />
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.classesintroduction.test.StudentTest01" />
+      <module name="java_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.classesintroduction.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest01" />
         <item itemvalue="Application.Lesson08_MultidimensionalArrays02" />
         <item itemvalue="Application.Lesson08_MultidimensionalArrays01" />
         <item itemvalue="Application.Lesson07_Arrays03" />
         <item itemvalue="Application.Lesson07_Arrays02" />
-        <item itemvalue="Application.Lesson07_Arrays01" />
       </list>
     </recent_temporary>
   </component>
