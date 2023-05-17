@@ -7,10 +7,15 @@ public class Lesson07_Arrays02 {
 //        boolean false
 //        String null
 
-        String[] names = new String[3];
+        String[] names = new String[4];
+        names[0] = "Java";
+        names[1] = "Spring boot";
+        names[2] = "MySQL";
+        names[3] = "Heroku";
 
-        System.out.println(names[0]);
-        System.out.println(names[1]);
-        System.out.println(names[2]);
+        for (int i=0; i< names.length; i++){
+            System.out.println(names[i]);
+        }
+
     }
 }
