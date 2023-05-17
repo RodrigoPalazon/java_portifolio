@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_CondicionalStructures_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_ConditionalStructures_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_CondicionalStructures_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_ConditionalStructures_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_CondicionalStructures_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_ConditionalStructures_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_CondicionalStructures_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_ConditionalStructures_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson05_CondicionalStructures_03">
-    <configuration name="Lesson03_PrimitiveTypesExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson03_PrimitiveTypesExercise" />
-      <module name="java_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lesson05_ConditionalStructures_04">
     <configuration name="Lesson04_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson04_Operators" />
       <module name="java_fundamentals" />
@@ -70,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson05_CondicionalStructures_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson05_CondicionalStructures_01" />
+    <configuration name="Lesson05_ConditionalStructures_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson05_ConditionalStructures_01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson05_CondicionalStructures_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson05_CondicionalStructures_02" />
+    <configuration name="Lesson05_ConditionalStructures_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson05_ConditionalStructures_02" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +86,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson05_CondicionalStructures_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson05_CondicionalStructures_03" />
+    <configuration name="Lesson05_ConditionalStructures_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson05_ConditionalStructures_03" />
+      <module name="java_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson05_ConditionalStructures_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson05_ConditionalStructures_04" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson05_CondicionalStructures_03" />
-        <item itemvalue="Application.Lesson05_CondicionalStructures_02" />
-        <item itemvalue="Application.Lesson05_CondicionalStructures_01" />
+        <item itemvalue="Application.Lesson05_ConditionalStructures_04" />
+        <item itemvalue="Application.Lesson05_ConditionalStructures_03" />
+        <item itemvalue="Application.Lesson05_ConditionalStructures_02" />
+        <item itemvalue="Application.Lesson05_ConditionalStructures_01" />
         <item itemvalue="Application.Lesson04_Operators" />
-        <item itemvalue="Application.Lesson03_PrimitiveTypesExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +153,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_CondicionalStructures_01.java</url>
+          <url>file://$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Lesson05_ConditionalStructures_01.java</url>
           <line>8</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>

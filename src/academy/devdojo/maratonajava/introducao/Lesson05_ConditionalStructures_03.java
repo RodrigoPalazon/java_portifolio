@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Lesson05_CondicionalStructures_03 {
+public class Lesson05_ConditionalStructures_03 {
     public static void main(String[] args) {
 //        Donate if salary > 5000;
         double salary = 4000;

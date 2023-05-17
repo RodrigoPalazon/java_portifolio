@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Lesson05_CondicionalStructures_01 {
+public class Lesson05_ConditionalStructures_01 {
     public static void main(String[] args) {
         int age_example1 = 12;
         int age_ternaryOperator = 18;
