@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.javacore.Aclassesintroduction.test;
+package academy.devdojo.maratonajava.javacore.A_classesintroduction.test;
 
-import academy.devdojo.maratonajava.javacore.Aclassesintroduction.domain.Car;
+import academy.devdojo.maratonajava.javacore.A_classesintroduction.domain.Car;
 
 public class TestCar01 {
     public static void main(String[] args) {
@@ -16,6 +16,6 @@ public class TestCar01 {
         car_02.year = 2023;
 
         System.out.println("brand: " + car_01.brand + "; " + "model: " + car_01.model + "; " + "year: " + car_01.year + ";");
-        System.out.println("brand: " + car_02.brand + "; " + "model: " + car_02.model + "; " + "year: " + car_02.year+ ";");
+        System.out.println("brand: " + car_02.brand + "; " + "model: " + car_02.model + "; " + "y ear: " + car_02.year+ ";");
     }
 }

@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/domain/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/test/TestCar01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/B_methodsintroduction/domain/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/B_methodsintroduction/test/CalculatorTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/domain/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/A_classesintroduction/domain/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/A_classesintroduction/domain/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/domain/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/A_classesintroduction/domain/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/test/StudentTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/A_classesintroduction/test/StudentTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/test/StudentTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/A_classesintroduction/test/StudentTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/test/TeacherTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/A_classesintroduction/test/TeacherTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aclassesintroduction/test/TestCar01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/A_classesintroduction/test/TestCar01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +53,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestCar01">
-    <configuration name="Lesson08_MultidimensionalArrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Lesson08_MultidimensionalArrays02" />
+  <component name="RunManager" selected="Application.CalculatorTest01">
+    <configuration name="CalculatorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.B_methodsintroduction.test.CalculatorTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.B_methodsintroduction.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,11 +68,11 @@
       </method>
     </configuration>
     <configuration name="StudentTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Aclassesintroduction.test.StudentTest01" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.StudentTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Aclassesintroduction.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="StudentTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Aclassesintroduction.test.StudentTest02" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.StudentTest02" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Aclassesintroduction.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="TeacherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Aclassesintroduction.test.TeacherTest01" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.TeacherTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Aclassesintroduction.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="TestCar01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Aclassesintroduction.test.TestCar01" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.TestCar01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Aclassesintroduction.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorTest01" />
         <item itemvalue="Application.TestCar01" />
         <item itemvalue="Application.TeacherTest01" />
         <item itemvalue="Application.StudentTest02" />
         <item itemvalue="Application.StudentTest01" />
-        <item itemvalue="Application.Lesson08_MultidimensionalArrays02" />
       </list>
     </recent_temporary>
   </component>
