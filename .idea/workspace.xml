@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/B_methodsintroduction/test/CalculatorTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/B_methodsintroduction/test/CalculatorTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/B_methodsintroduction/domain/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/B_methodsintroduction/domain/Calculator.java" afterDir="false" />
     </list>
@@ -46,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculatorTest02">
+  <component name="RunManager" selected="Application.CalculatorTest03">
     <configuration name="CalculatorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.B_methodsintroduction.test.CalculatorTest01" />
       <module name="java_fundamentals" />
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.StudentTest02" />
+    <configuration name="CalculatorTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.B_methodsintroduction.test.CalculatorTest03" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.A_classesintroduction.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.B_methodsintroduction.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorTest03" />
         <item itemvalue="Application.CalculatorTest02" />
         <item itemvalue="Application.CalculatorTest01" />
         <item itemvalue="Application.TestCar01" />
         <item itemvalue="Application.TeacherTest01" />
-        <item itemvalue="Application.StudentTest02" />
       </list>
     </recent_temporary>
   </component>
