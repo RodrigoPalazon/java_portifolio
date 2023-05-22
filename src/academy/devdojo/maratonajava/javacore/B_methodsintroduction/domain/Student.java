@@ -12,4 +12,3 @@ public class Student {
         System.out.println(this.gender);
     }
 }
-f

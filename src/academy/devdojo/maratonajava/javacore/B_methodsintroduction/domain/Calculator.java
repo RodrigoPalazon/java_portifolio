@@ -25,4 +25,21 @@ public class Calculator {
         System.out.println("Num1 : " + num1);
         System.out.println("Num2 : " + num2);
     }
+
+    public void sumArray(int[] numbers) {
+        int sum = 0;
+        for (int number: numbers) {
+            sum += number;
+        }
+        System.out.println(sum);
+    }
+
+//    VarArgs Parameters
+    public void sumVarArgs(int... numbers) {
+        int sum = 0;
+        for (int number: numbers) {
+            sum += number;
+        }
+        System.out.println(sum);
+    }
 }
