@@ -1,11 +1,11 @@
-# Java Fundamentals - Portifolio
+# Java Fundamentals - Portfolio
 
 <p>
 The main goal of this repository is to show the fundamentals concepts
 of Java, and logic programming in general using the programming language.
 
 It's important to highlight that is not a structured project, but a bunch
-of random mini-projects and exercicies that uses the most important concepts.
+of random mini-projects and exercises that uses the most important concepts.
 
 Some of the files(modes, test, services, etc...), can be haven't  done in the better
 way, and probably it happened due a line of thoughts and explanations viewing a
