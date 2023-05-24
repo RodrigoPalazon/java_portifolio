@@ -9,8 +9,8 @@ public class PersonTest01 {
         person.setName("Bonito");
         person.setAge(32);
 
-        System.out.println(person.getName());
-        System.out.println(person.getAge());
-//        person.printData();
+//        System.out.println(person.getName());
+//        System.out.println(person.getAge());
+        person.printData();
     }
 }

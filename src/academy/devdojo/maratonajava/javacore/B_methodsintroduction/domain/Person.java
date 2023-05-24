@@ -13,7 +13,7 @@ public class Person {
         this.name = name;
     }
 
-    public String getName () {
+    public String getName() {
         return this.name;
     }
 
@@ -25,7 +25,7 @@ public class Person {
         this.age = age;
     }
 
-    public int getAge () {
+    public int getAge() {
         return this.age;
     }
 }
