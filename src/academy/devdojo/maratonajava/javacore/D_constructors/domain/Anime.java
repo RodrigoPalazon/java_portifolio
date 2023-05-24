@@ -5,15 +5,22 @@ public class Anime {
     private String typeOfAnime;
     private int episodes;
     private String gender;
+    private String studio;
 
     public Anime(String name, String typeOfAnime, int episodes, String gender){
+        this();
         this.name = name;
         this.typeOfAnime = typeOfAnime;
         this.episodes = episodes;
         this.gender = gender;
     }
 
-//    Reload of constructor, allowed us to initialize an instance without some, or any properties
+    public Anime(String name, String typeOfAnime, int episodes, String gender, String studio){
+        this(name, typeOfAnime, episodes, gender);
+        this.studio = studio;
+    }
+
+//    Overload of constructor, allowed us to initialize an instance without some, or any properties
     public Anime() {
     }
 
@@ -22,6 +29,7 @@ public class Anime {
         System.out.println(this.typeOfAnime);
         System.out.println(this.episodes);
         System.out.println(this.gender);
+        System.out.println(this.studio);
     }
 
     public void setName(String name) {
