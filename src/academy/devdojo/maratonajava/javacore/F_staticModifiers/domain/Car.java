@@ -3,7 +3,7 @@ package academy.devdojo.maratonajava.javacore.F_staticModifiers.domain;
 public class Car {
     private String name;
     private double maxSpeed;
-    public static double fabricLimitSpeed = 250;
+    private static double fabricLimitSpeed = 250;
 
     public Car(String name, double maxSpeed) {
         this.name = name;
@@ -33,11 +33,11 @@ public class Car {
         this.maxSpeed = maxSpeed;
     }
 
-    public double getFabricLimitSpeed() {
+    public static double getFabricLimitSpeed() {
         return Car.fabricLimitSpeed;
     }
 
-    public void setLimitSpeed(double fabricLimitSpeed) {
+    public static void setFabricLimitSpeed(double fabricLimitSpeed) {
         Car.fabricLimitSpeed = fabricLimitSpeed;
     }
 }
