@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.javacore.G_association.test;
 
 import java.util.Scanner;
 
-public class ReadingFromKeyboard {
+public class ReadingFromKeyboardTest01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
