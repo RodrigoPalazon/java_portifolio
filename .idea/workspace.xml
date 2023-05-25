@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/domain/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/test/PlayerTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/domain/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/domain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/test/SchoolTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/domain/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/domain/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/test/PlayerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/G_association/test/PlayerTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.F_staticModifiers.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PlayerTest02">
+  <component name="RunManager" selected="Application.SchoolTest01">
     <configuration name="CarTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.F_staticModifiers.test.CarTest01" />
       <module name="java_fundamentals" />
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.devdojo.maratonajava.javacore.E_initializationBlocks.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.E_initializationBlocks.test.AnimeTest01" />
+    <configuration name="SchoolTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.G_association.test.SchoolTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.E_initializationBlocks.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.G_association.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SchoolTest01" />
         <item itemvalue="Application.PlayerTest02" />
         <item itemvalue="Application.PlayerTest01" />
         <item itemvalue="Application.academy.devdojo.maratonajava.javacore.F_staticModifiers.test.AnimeTest01" />
         <item itemvalue="Application.CarTest01" />
-        <item itemvalue="Application.academy.devdojo.maratonajava.javacore.E_initializationBlocks.test.AnimeTest01" />
       </list>
     </recent_temporary>
   </component>
