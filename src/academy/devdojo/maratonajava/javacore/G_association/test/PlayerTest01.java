@@ -15,5 +15,7 @@ public class PlayerTest01 {
         for (Player player : players) {
             player.printData();
         }
+
+        System.out.println("From test");
     }
 }
