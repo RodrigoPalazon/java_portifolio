@@ -12,6 +12,10 @@ public class Employee extends Person{
         System.out.println("Salary: " + this.salary);
     }
 
+    public void paymentReport(){
+        System.out.println("I, " + this.getName() + " received the salary of " + this.salary);
+    }
+
     public void setSalary(double salary) {
         this.salary = salary;
     }

@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/H_heritage/domain/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/H_heritage/domain/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/H_heritage/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/H_heritage/test/HeritageTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/H_inheritance/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/H_inheritance/domain/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/H_inheritance/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/H_inheritance/domain/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +54,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.F_staticModifiers.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeritageTest01">
-    <configuration name="HeritageTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.H_heritage.test.HeritageTest01" />
+  <component name="RunManager" selected="Application.InheritanceTest01">
+    <configuration name="InheritanceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.H_inheritance.test.InheritanceTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.H_heritage.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.H_inheritance.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,7 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeritageTest01" />
+        <item itemvalue="Application.InheritanceTest01" />
         <item itemvalue="Application.SeminarManagementSystem" />
         <item itemvalue="Application.ReadingFromKeyBoardTest02" />
         <item itemvalue="Application.ReadingFromKeyboardTest01" />

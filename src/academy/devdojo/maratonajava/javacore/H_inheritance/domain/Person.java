@@ -1,9 +1,9 @@
 package academy.devdojo.maratonajava.javacore.H_inheritance.domain;
 
 public class Person {
-    private String name;
-    private String cpf;
-    private Address address;
+    public String name;
+    protected String cpf;
+    protected Address address;
 
     public String getName() {
         return name;
