@@ -5,7 +5,7 @@ public class Anime {
     private static int[] episodes;
 
 //    Order of compiling
-//      0- Initialization Block is executed when the JVM load the class
+//      0- Initialization Static Block is executed when the JVM load the class
 //      1- Allocate memory space for  object
 //      2- Each class attribute is created and initialized with default or set values
 //      3- Initialization block is executed
