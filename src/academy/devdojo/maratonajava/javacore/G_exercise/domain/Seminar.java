@@ -5,13 +5,9 @@ public class Seminar {
     private Student[] students;
     private Location location;
 
-    public Seminar(String title) {
+    public Seminar(String title, Location location) {
         this.title = title;
-    }
-
-    public Seminar(String title, Student[] students) {
-        this.title = title;
-        this.students = students;
+        this.location = location;
     }
 
     public Seminar(String title, Student[] students, Location location) {
