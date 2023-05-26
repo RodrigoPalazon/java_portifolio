@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.H_heritage.domain;
+package academy.devdojo.maratonajava.javacore.H_inheritance.domain;
 
 public class Employee extends Person{
     private double salary;

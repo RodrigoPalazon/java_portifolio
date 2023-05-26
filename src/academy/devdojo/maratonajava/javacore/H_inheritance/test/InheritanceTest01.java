@@ -1,10 +1,10 @@
-package academy.devdojo.maratonajava.javacore.H_heritage.test;
+package academy.devdojo.maratonajava.javacore.H_inheritance.test;
 
-import academy.devdojo.maratonajava.javacore.H_heritage.domain.Address;
-import academy.devdojo.maratonajava.javacore.H_heritage.domain.Employee;
-import academy.devdojo.maratonajava.javacore.H_heritage.domain.Person;
+import academy.devdojo.maratonajava.javacore.H_inheritance.domain.Address;
+import academy.devdojo.maratonajava.javacore.H_inheritance.domain.Employee;
+import academy.devdojo.maratonajava.javacore.H_inheritance.domain.Person;
 
-public class HeritageTest01 {
+public class InheritanceTest01 {
     public static void main(String[] args) {
         Address address_01 = new Address();
         address_01.setStreet("van Gogh street");
