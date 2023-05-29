@@ -1,8 +1,8 @@
 package academy.devdojo.maratonajava.javacore.K_enum.test;
 
 import academy.devdojo.maratonajava.javacore.K_enum.domain.Customer;
-import academy.devdojo.maratonajava.javacore.K_enum.domain.Customer.PaymentType;
 import academy.devdojo.maratonajava.javacore.K_enum.domain.CustomerType;
+import academy.devdojo.maratonajava.javacore.K_enum.domain.PaymentType;
 
 public class CustomerTest01 {
     public static void main(String[] args) {
@@ -11,5 +11,8 @@ public class CustomerTest01 {
 
         System.out.println(customer_01);
         System.out.println(customer_02);
+
+        System.out.println(PaymentType.DEBIT.descont(100));
+        System.out.println(PaymentType.CREDIT.descont(100));
     }
 }

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/K_enum/domain/PaymentType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/K_enum/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/K_enum/domain/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/K_enum/domain/CustomerType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/K_enum/domain/CustomerType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/K_enum/test/CustomerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/K_enum/test/CustomerTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
