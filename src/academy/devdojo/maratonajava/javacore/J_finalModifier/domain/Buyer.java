@@ -1,9 +1,7 @@
 package academy.devdojo.maratonajava.javacore.J_finalModifier.domain;
 
-public class Car {
-    public String name;
-    public static final double LIMIT_SPEED = 250;
-    public final Buyer BUYER = new Buyer();
+public class Buyer {
+    private String name;
 
     public String getName() {
         return name;
@@ -11,5 +9,12 @@ public class Car {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Buyer{" +
+                "name='" + name + '\'' +
+                '}';
     }
 }
