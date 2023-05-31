@@ -20,4 +20,5 @@ public class Customer {
                 ", paymentType=" + paymentType +
                 '}';
     }
+
 }
