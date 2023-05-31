@@ -15,8 +15,8 @@ public class Customer {
     public String toString() {
         return "Customer{" +
                 "name='" + name + '\'' +
-                ", customerType=" + customerType.CUSTOMER_REPORT +
-                ", customerTypeInt=" + customerType.VALUE +
+                ", customerType=" + customerType.getReportName() +
+                ", customerTypeInt=" + customerType.getValue() +
                 ", paymentType=" + paymentType +
                 '}';
     }

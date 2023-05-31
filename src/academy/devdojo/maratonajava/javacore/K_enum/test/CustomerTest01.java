@@ -12,7 +12,11 @@ public class CustomerTest01 {
         System.out.println(customer_01);
         System.out.println(customer_02);
 
-        System.out.println(PaymentType.DEBIT.descont(100));
-        System.out.println(PaymentType.CREDIT.descont(100));
+        System.out.println(PaymentType.DEBIT.discount(100));
+        System.out.println(PaymentType.CREDIT.discount(100));
+        CustomerType fiscalPerson = CustomerType.valueOf("FISCAL_PERSON");
+        System.out.println(fiscalPerson.getReportName());
+        CustomerType legalPerson = CustomerType.customerTypeByReportName("Legal Person");
+        System.out.println(legalPerson);
     }
 }
