@@ -12,4 +12,9 @@ public class Manager extends Employee{
                 ", salary=" + salary +
                 '}';
     }
+
+    @Override
+    public void calcBonus() {
+        this.salary = salary + (salary * 0.2);
+    }
 }

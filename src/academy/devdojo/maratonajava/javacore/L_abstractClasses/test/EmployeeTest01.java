@@ -6,10 +6,10 @@ import academy.devdojo.maratonajava.javacore.L_abstractClasses.domain.Manager;
 
 public class EmployeeTest01 {
     public static void main(String[] args) {
-        Manager manager_01 = new Manager("Juan", 5000);
+        Manager manager_01 = new Manager("Juan", 6000);
         System.out.println(manager_01);
 
-        Developer developer_01 = new Developer("Rodrigo", 3500);
+        Developer developer_01 = new Developer("Rodrigo", 4000);
         System.out.println(developer_01);
     }
 }

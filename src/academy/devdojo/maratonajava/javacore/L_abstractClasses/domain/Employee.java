@@ -7,5 +7,8 @@ public abstract class Employee {
     public Employee(String name, double salary) {
         this.name = name;
         this.salary = salary;
+        calcBonus();
     }
+
+    public abstract void calcBonus();
 }
