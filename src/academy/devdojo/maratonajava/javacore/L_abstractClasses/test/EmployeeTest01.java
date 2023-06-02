@@ -11,5 +11,8 @@ public class EmployeeTest01 {
 
         Developer developer_01 = new Developer("Rodrigo", 4000);
         System.out.println(developer_01);
+
+        manager_01.printData();
+        developer_01.printData();
     }
 }
