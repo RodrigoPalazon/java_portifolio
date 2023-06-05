@@ -18,8 +18,8 @@ public class ProductTest02 {
         System.out.println(product_02.getPrice());
         System.out.println(product_02.calcTax());
         System.out.println("---------------");
-        product_03.setValidDate("02/01/2023");
-        System.out.println(product_03.getValidDate());
+        product_03.setExpirationDate("02/01/2023");
+        System.out.println(product_03.getExpirationDate());
 
 
     }
