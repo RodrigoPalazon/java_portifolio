@@ -19,7 +19,7 @@ public class RunTimeExceptionTest03 {
         return null;
     }
 
-//    Quite specific, but possible use is...
+//    Quite specific, but possible use is...f
     private static String openConection2() {
         try{
             System.out.println("Opening a File.");
@@ -28,6 +28,5 @@ public class RunTimeExceptionTest03 {
         }finally {
             System.out.println("closing feature released by OS");
         }
-        return null;
     }
 }
