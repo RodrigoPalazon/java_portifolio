@@ -14,7 +14,7 @@ public class WrapperTest01 {
         char charP = 'W';
         boolean booleanP = false;
 
-        Byte byteW = 1;
+        Byte byteW = 1; // autoboxing, wrapping
         Short shortW = 1;
         Integer intW = 1;
         Long longW = 10L;
@@ -24,6 +24,16 @@ public class WrapperTest01 {
         Boolean booleanW = false;
 
         booleanW.booleanValue();
+
+        int num = byteW; //unboxing;
+
+        Integer intW_02 = Integer.parseInt("2");
+        System.out.println(intW_02.getClass());
+
+        Boolean itIsTrue = Boolean.parseBoolean("TruE");
+        System.out.println(itIsTrue);
+
+        System.out.println("Character: " + Character.isLetterOrDigit('!'));
     }
 }
 
