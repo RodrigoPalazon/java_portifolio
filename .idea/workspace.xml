@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Q_string/test/StringPerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Q_string/test/StringBuilderTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Q_string/test/StringPerformanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Q_string/test/StringPerformanceTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +60,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.F_staticModifiers.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringPerformanceTest">
-    <configuration name="OverwriteWithExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.O_exception.exception.test.OverwriteWithExceptionTest01" />
+  <component name="RunManager" selected="Application.StringBuilderTest01">
+    <configuration name="StringBuilderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Q_string.test.StringBuilderTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.O_exception.exception.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Q_string.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Q_string.test.StringPerformanceTest" />
+    <configuration name="StringPerformanceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Q_string.test.StringPerformanceTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringPerformanceTest" />
+        <item itemvalue="Application.StringBuilderTest01" />
+        <item itemvalue="Application.StringPerformanceTest01" />
         <item itemvalue="Application.StringTest02" />
         <item itemvalue="Application.StringTest01" />
         <item itemvalue="Application.WrapperTest01" />
-        <item itemvalue="Application.OverwriteWithExceptionTest01" />
       </list>
     </recent_temporary>
   </component>
