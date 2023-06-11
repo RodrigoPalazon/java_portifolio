@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/R_dates/test/LocaleTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/LocaleTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/NumberFormatTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/R_dates/test/DateFormatTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/DateFormatTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/R_dates/test/LocaleTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/LocaleTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +62,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.F_staticModifiers.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocaleTest01">
+  <component name="RunManager" selected="Application.NumberFormatTest01">
     <configuration name="CalendarTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.R_dates.test.CalendarTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.R_dates.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.S_formatting.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,24 +77,11 @@
       </method>
     </configuration>
     <configuration name="DateFormatTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.R_dates.test.DateFormatTest01" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.S_formatting.test.DateFormatTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.R_dates.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.R_dates.test.DateTest01" />
-      <module name="java_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.R_dates.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.S_formatting.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="LocaleTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.R_dates.test.LocaleTest01" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.S_formatting.test.LocaleTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.R_dates.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.S_formatting.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Q_string.test.StringBuilderTest01" />
+    <configuration name="LocaleTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.S_formatting.test.LocaleTest02" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Q_string.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.S_formatting.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberFormatTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.S_formatting.test.NumberFormatTest01" />
+      <module name="java_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.S_formatting.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberFormatTest01" />
+        <item itemvalue="Application.LocaleTest02" />
         <item itemvalue="Application.LocaleTest01" />
         <item itemvalue="Application.DateFormatTest01" />
         <item itemvalue="Application.CalendarTest01" />
-        <item itemvalue="Application.DateTest01" />
-        <item itemvalue="Application.StringBuilderTest01" />
       </list>
     </recent_temporary>
   </component>
