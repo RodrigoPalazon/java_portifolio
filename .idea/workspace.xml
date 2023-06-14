@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/LocaleTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/NumberFormatTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/NumberFormatTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/R_dates/test/DateFormatTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/DateFormatTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/R_dates/test/LocaleTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/LocaleTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/NumberFormatTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test/NumberFormatTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rodrigo-palazon/Documents/backend/Java/java_fundamentals/src/academy/devdojo/maratonajava/javacore/D_constructors/domain&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rodrigo-palazon/Documents/backend/Java/java_fundamentals/src/academy/devdojo/maratonajava/javacore/S_formatting/test&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -52,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/S_formatting/test" />
       <recent name="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/D_constructors/domain" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -62,20 +61,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.F_staticModifiers.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberFormatTest01">
-    <configuration name="CalendarTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.R_dates.test.CalendarTest01" />
-      <module name="java_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.S_formatting.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumberFormatTest02">
     <configuration name="DateFormatTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.S_formatting.test.DateFormatTest01" />
       <module name="java_fundamentals" />
@@ -128,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberFormatTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.S_formatting.test.NumberFormatTest02" />
+      <module name="java_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.S_formatting.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberFormatTest02" />
         <item itemvalue="Application.NumberFormatTest01" />
         <item itemvalue="Application.LocaleTest02" />
         <item itemvalue="Application.LocaleTest01" />
         <item itemvalue="Application.DateFormatTest01" />
-        <item itemvalue="Application.CalendarTest01" />
       </list>
     </recent_temporary>
   </component>
