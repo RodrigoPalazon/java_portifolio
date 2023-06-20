@@ -17,6 +17,6 @@ public class DurationTest01 {
 
         System.out.println(duration_01);
         System.out.println(duration_02);
-        System.out.println(duration_03);
+        System.out.println(duration_03 );
     }
 }
