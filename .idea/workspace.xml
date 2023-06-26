@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/U_regex/test/ScannerTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/U_regex/test/ScannerTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/V_io/test/FileTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +61,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.N_polymorphism.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerTest02">
-    <configuration name="PatternMatcherTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.U_regex.test.PatternMatcherTest03" />
+  <component name="RunManager" selected="Application.FileTest01">
+    <configuration name="FileTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.V_io.test.FileTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.U_regex.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.V_io.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileTest01" />
         <item itemvalue="Application.ScannerTest02" />
         <item itemvalue="Application.ScannerTest01" />
         <item itemvalue="Application.PatternMatcherTest05" />
         <item itemvalue="Application.PatternMatcherTest04" />
-        <item itemvalue="Application.PatternMatcherTest03" />
       </list>
     </recent_temporary>
   </component>
