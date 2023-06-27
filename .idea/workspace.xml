@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/V_io/test/FileTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/W_nio/test/PathTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.N_polymorphism.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileTest02">
+  <component name="RunManager" selected="Application.PathTest01">
     <configuration name="BufferedFileReaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.V_io.test.BufferedFileReaderTest01" />
       <module name="java_fundamentals" />
@@ -117,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.V_io.test.FileWriterTest01" />
+    <configuration name="PathTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.W_nio.test.PathTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.V_io.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.W_nio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathTest01" />
         <item itemvalue="Application.FileTest02" />
         <item itemvalue="Application.BufferedFileReaderTest01" />
         <item itemvalue="Application.FileReaderTest01" />
         <item itemvalue="Application.BufferedWriterTest01" />
-        <item itemvalue="Application.FileWriterTest01" />
       </list>
     </recent_temporary>
   </component>
