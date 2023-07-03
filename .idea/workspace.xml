@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/W_nio/test/PathMatcherTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/W_nio/test/PathMatcherTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +68,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.N_polymorphism.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathMatcherTest01">
-    <configuration name="DirectoryStreamTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.W_nio.test.DirectoryStreamTest01" />
+  <component name="RunManager" selected="Application.PathMatcherTest02">
+    <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.W_nio.test.PathMatcherTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.W_nio.test.ListJavaFiles" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.W_nio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.W_nio.test.PathMatcherTest01" />
+    <configuration name="PathMatcherTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.W_nio.test.PathMatcherTest02" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathMatcherTest02" />
         <item itemvalue="Application.PathMatcherTest01" />
         <item itemvalue="Application.SimpleFileVisitorTest02 (1)" />
         <item itemvalue="Application.SimpleFileVisitorTest02" />
         <item itemvalue="Application.SimpleFileVisitorTest01" />
-        <item itemvalue="Application.DirectoryStreamTest01" />
       </list>
     </recent_temporary>
   </component>
