@@ -1,5 +1,6 @@
 package academy.devdojo.maratonajava.javacore.X_serialization.test;
 
+import academy.devdojo.maratonajava.javacore.X_serialization.domain.Buddies;
 import academy.devdojo.maratonajava.javacore.X_serialization.domain.Student;
 
 import java.io.IOException;
@@ -13,7 +14,9 @@ public class SerializationTest01 {
 
     public static void main(String[] args) {
         Student student_01 = new Student(1L, "Rodrigo Palazon", "123321123321");
-//        serializer(student_01);
+        Buddies buddies = new Buddies("Java Marathon");
+        student_01.setBuddies(buddies);
+        serializer(student_01);
         deserializer();
     }
 
