@@ -1,11 +1,11 @@
 package academy.devdojo.maratonajava.javacore.Y_collections.domain;
 
 public class Smartphone {
-    private String seriaNumber;
+    private String serialNumber;
     private String brand;
 
     public Smartphone(String seriaNumber, String brand) {
-        this.seriaNumber = seriaNumber;
+        this.serialNumber = seriaNumber;
         this.brand = brand;
     }
 
@@ -16,15 +16,24 @@ public class Smartphone {
         if(this.getClass() != obj.getClass()) return false;
         Smartphone smartphone = (Smartphone) obj;
 
-        return seriaNumber != null && seriaNumber.equals(smartphone.seriaNumber);
+        return serialNumber != null && serialNumber.equals(smartphone.serialNumber);
     }
 
-    public String getSeriaNumber() {
-        return seriaNumber;
+    // if x.equals(y) == true, y.hashCode() == x.hashCode()
+    // if y.hashCode() == x.hashCode() == true, doesn't mean that x.equals(y) == true as well
+    // x.equals(y) == false
+    // y.hashCode() != x.hashCode(), x.equals(y) must be false
+    @Override
+    public int hashCode() {
+        return serialNumber == null ? 0 : this.serialNumber.hashCode();
     }
 
-    public void setSeriaNumber(String seriaNumber) {
-        this.seriaNumber = seriaNumber;
+    public String getSerialNumber() {
+        return serialNumber;
+    }
+
+    public void setSerialNumber(String serialNumber) {
+        this.serialNumber = serialNumber;
     }
 
     public String getBrand() {
