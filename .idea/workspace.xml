@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/SmartphoneListTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/ListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/ListTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/domain/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/domain/Smartphone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.N_polymorphism.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListTest01">
+  <component name="RunManager" selected="Application.SmartphoneListTest01">
     <configuration name="EqualsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.EqualsTest01" />
       <module name="java_fundamentals" />
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathMatcherTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.W_nio.test.PathMatcherTest02" />
+    <configuration name="SerializationTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.X_serialization.test.SerializationTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.W_nio.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.X_serialization.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializationTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.X_serialization.test.SerializationTest01" />
+    <configuration name="SmartphoneListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.SmartphoneListTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.X_serialization.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Y_collections.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmartphoneListTest01" />
         <item itemvalue="Application.ListTest01" />
         <item itemvalue="Application.EqualsTest01" />
         <item itemvalue="Application.SerializationTest01" />
         <item itemvalue="Application.ZipOutputStreamTest01" />
-        <item itemvalue="Application.PathMatcherTest02" />
       </list>
     </recent_temporary>
   </component>

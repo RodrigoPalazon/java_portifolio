@@ -4,8 +4,8 @@ public class Smartphone {
     private String serialNumber;
     private String brand;
 
-    public Smartphone(String seriaNumber, String brand) {
-        this.serialNumber = seriaNumber;
+    public Smartphone(String serialNumber, String brand) {
+        this.serialNumber = serialNumber;
         this.brand = brand;
     }
 
@@ -26,6 +26,14 @@ public class Smartphone {
     @Override
     public int hashCode() {
         return serialNumber == null ? 0 : this.serialNumber.hashCode();
+    }
+
+    @Override
+    public String toString() {
+        return "Smartphone{" +
+                "serialNumber='" + serialNumber + '\'' +
+                ", brand='" + brand + '\'' +
+                '}';
     }
 
     public String getSerialNumber() {
