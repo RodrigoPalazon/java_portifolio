@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.javacore.Y_collections.domain;
 
 import java.util.Objects;
 
-public class ProgrammingLanguage {
+public class ProgrammingLanguage implements Comparable<ProgrammingLanguage>{
     private Long id;
     private String name;
     private double version;
@@ -59,5 +59,19 @@ public class ProgrammingLanguage {
 
     public void setVersion(double version) {
         this.version = version;
+    }
+
+    @Override
+    public int compareTo(ProgrammingLanguage anotherPL) {
+        //negative if this < anotherPL
+        //if this == anotherPL, return 0
+        //positive if this > anotherPL
+        if(this.id < anotherPL.getId()){
+            return -1;
+        }else if(this.id.equals(anotherPL.getId())){
+            return 0;
+        }else{
+            return 1;
+        }
     }
 }
