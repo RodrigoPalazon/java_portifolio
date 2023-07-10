@@ -1,5 +1,6 @@
 package academy.devdojo.maratonajava.javacore.Y_collections.test;
 
+import academy.devdojo.maratonajava.javacore.Y_collections.domain.ProgrammingLanguage;
 import academy.devdojo.maratonajava.javacore.Y_collections.domain.Smartphone;
 
 import java.util.ArrayList;

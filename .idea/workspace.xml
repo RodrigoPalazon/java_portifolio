@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/SmartphoneListTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/domain/ProgrammingLanguages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/ListSortTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/domain/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/domain/Smartphone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.ListSortTest01" />
+      <module name="java_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Y_collections.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.ListTest01" />
       <module name="java_fundamentals" />
@@ -122,26 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZipOutputStreamTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.W_nio.test.ZipOutputStreamTest01" />
-      <module name="java_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.W_nio.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SmartphoneListTest01" />
+        <item itemvalue="Application.ListSortTest01" />
         <item itemvalue="Application.ListTest01" />
         <item itemvalue="Application.EqualsTest01" />
         <item itemvalue="Application.SerializationTest01" />
-        <item itemvalue="Application.ZipOutputStreamTest01" />
       </list>
     </recent_temporary>
   </component>
