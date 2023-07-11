@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/BinarySearchTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/BinarySearchTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/ProgrammingLanguagesSortTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/test/ProgrammingLanguagesSortTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/domain/ProgrammingLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Y_collections/domain/ProgrammingLanguage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +63,29 @@
       <recent name="$PROJECT_DIR$/home/rodrigo/dev" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Y_collections.test" />
       <recent name="academy.devdojo.maratonajava.javacore.V_io.test" />
       <recent name="academy.devdojo.maratonajava.javacore.U_regex.test" />
       <recent name="academy.devdojo.maratonajava.javacore.O_exception.runtime.test" />
       <recent name="academy.devdojo.maratonajava.javacore.O_exception.exception.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.N_polymorphism.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProgrammingLanguagesSortTest01">
-    <configuration name="EqualsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.EqualsTest01" />
+  <component name="RunManager" selected="Application.BinarySearchTest02">
+    <configuration name="BinarySearchTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.BinarySearchTest01" />
+      <module name="java_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Y_collections.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.BinarySearchTest02" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -84,19 +99,6 @@
     </configuration>
     <configuration name="ListSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.ListSortTest01" />
-      <module name="java_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Y_collections.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Y_collections.test.ListTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTest02" />
+        <item itemvalue="Application.BinarySearchTest01" />
         <item itemvalue="Application.ProgrammingLanguagesSortTest01" />
         <item itemvalue="Application.SmartphoneListTest01" />
         <item itemvalue="Application.ListSortTest01" />
-        <item itemvalue="Application.ListTest01" />
-        <item itemvalue="Application.EqualsTest01" />
       </list>
     </recent_temporary>
   </component>

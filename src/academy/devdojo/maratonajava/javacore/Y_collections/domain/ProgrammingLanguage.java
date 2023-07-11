@@ -66,12 +66,16 @@ public class ProgrammingLanguage implements Comparable<ProgrammingLanguage>{
         //negative if this < anotherPL
         //if this == anotherPL, return 0
         //positive if this > anotherPL
-        if(this.id < anotherPL.getId()){
-            return -1;
-        }else if(this.id.equals(anotherPL.getId())){
-            return 0;
-        }else{
-            return 1;
-        }
+
+
+//        if(this.id < anotherPL.getId()){
+//            return -1;
+//        }else if(this.id.equals(anotherPL.getId())){
+//            return 0;
+//        }else{
+//            return 1;
+//        }
+
+        return this.name.compareTo(anotherPL.getName());
     }
 }
