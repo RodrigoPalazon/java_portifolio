@@ -4,7 +4,15 @@ import academy.devdojo.maratonajava.javacore.Y_collections.domain.ProgrammingLan
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
+
+class ProgrammingLanguagesByIdComparator implements Comparator<ProgrammingLanguage> {
+    @Override
+    public int compare(ProgrammingLanguage pl1, ProgrammingLanguage pl2) {
+        return pl1.getId().compareTo(pl2.getId());
+    }
+}
 
 public class ProgrammingLanguagesSortTest01 {
     public static void main(String[] args) {
@@ -22,6 +30,14 @@ public class ProgrammingLanguagesSortTest01 {
         System.out.println("-----------");
 
         Collections.sort(programmingLanguages);
+
+        for (ProgrammingLanguage programmingLanguage : programmingLanguages) {
+            System.out.println(programmingLanguage);
+        }
+
+        System.out.println("-----------");
+
+        Collections.sort(programmingLanguages, new ProgrammingLanguagesByIdComparator());
 
         for (ProgrammingLanguage programmingLanguage : programmingLanguages) {
             System.out.println(programmingLanguage);
