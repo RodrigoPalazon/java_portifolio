@@ -6,6 +6,7 @@ public class ProgrammingLanguage implements Comparable<ProgrammingLanguage>{
     private Long id;
     private String name;
     private double version;
+    private int quantity;
 
     public ProgrammingLanguage(Long id, String name, double version) {
         Objects.requireNonNull(id, "ID cannot be null");
@@ -13,6 +14,11 @@ public class ProgrammingLanguage implements Comparable<ProgrammingLanguage>{
         this.id = id;
         this.name = name;
         this.version = version;
+    }
+
+    public ProgrammingLanguage(Long id, String name, double version, int quantity) {
+        this(id, name,version);
+        this.quantity = quantity;
     }
 
     @Override
@@ -30,10 +36,11 @@ public class ProgrammingLanguage implements Comparable<ProgrammingLanguage>{
 
     @Override
     public String toString() {
-        return "ProgrammingLanguages{" +
+        return "ProgrammingLanguage{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", version=" + version +
+                ", quantity=" + quantity +
                 '}';
     }
 
@@ -59,6 +66,14 @@ public class ProgrammingLanguage implements Comparable<ProgrammingLanguage>{
 
     public void setVersion(double version) {
         this.version = version;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(int quantity) {
+        this.quantity = quantity;
     }
 
     @Override
