@@ -25,13 +25,13 @@ public class ProgrammingLanguage implements Comparable<ProgrammingLanguage>{
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        ProgrammingLanguage that = (ProgrammingLanguage) o;
-        return Double.compare(that.version, version) == 0 && Objects.equals(id, that.id) && Objects.equals(name, that.name);
+        ProgrammingLanguage language = (ProgrammingLanguage) o;
+        return Objects.equals(id, language.id) && Objects.equals(name, language.name);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(id, name, version);
+        return Objects.hash(id, name);
     }
 
     @Override

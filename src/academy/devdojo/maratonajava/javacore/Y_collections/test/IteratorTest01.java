@@ -4,11 +4,12 @@ import academy.devdojo.maratonajava.javacore.Y_collections.domain.ProgrammingLan
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.List;
 
 public class IteratorTest01 {
     public static void main(String[] args) {
-        List<ProgrammingLanguage> programmingLanguages = new ArrayList<>(6);
+        List<ProgrammingLanguage> programmingLanguages = new LinkedList<>();
         programmingLanguages.add(new ProgrammingLanguage(06L,"Java",18,0));
         programmingLanguages.add(new ProgrammingLanguage(02L,"JavaScript",6,2));
         programmingLanguages.add(new ProgrammingLanguage(07L,"Python", 3, 4));
