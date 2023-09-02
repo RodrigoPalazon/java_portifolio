@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Z_generics/test/GenericMethodTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/ZZA_innerClasses/test/OuterClassesTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2PcC1wTpicPHOdZoElBW2pUevgQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rodrigo-palazon/Documents/backend/Java/java_fundamentals/src/academy/devdojo/maratonajava/javacore/Z_generics/test&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/rodrigo-palazon/Documents/backend/Java/java_fundamentals/src/academy/devdojo/maratonajava/javacore/Z_generics/test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Z_generics/test" />
@@ -68,7 +71,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.U_regex.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericMethodTest01">
+  <component name="RunManager" selected="Application.OuterClassesTest01">
     <configuration name="GenericClassTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Z_generics.test.GenericClassTest01" />
       <module name="java_fundamentals" />
@@ -121,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildcardTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Z_generics.test.WildcardTest02" />
+    <configuration name="OuterClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZA_innerClasses.test.OuterClassesTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Z_generics.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZA_innerClasses.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OuterClassesTest01" />
         <item itemvalue="Application.GenericMethodTest01" />
         <item itemvalue="Application.GenericClassTest03" />
         <item itemvalue="Application.GenericClassTest02" />
         <item itemvalue="Application.GenericClassTest01" />
-        <item itemvalue="Application.WildcardTest02" />
       </list>
     </recent_temporary>
   </component>
