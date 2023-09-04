@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2511367-487a-4d56-99c2-50b749a4dca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/ZZA_innerClasses/test/OuterClassesTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/ZZB_behavior/domain/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/ZZB_behavior/test/BehaviorByParameterTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.U_regex.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnonymousClassesTest02">
+  <component name="RunManager" selected="Application.BehaviorByParameterTest01">
     <configuration name="AnonymousClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZA_innerClasses.test.AnonymousClassesTest01" />
       <module name="java_fundamentals" />
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericMethodTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Z_generics.test.GenericMethodTest01" />
+    <configuration name="BehaviorByParameterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZB_behavior.test.BehaviorByParameterTest01" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Z_generics.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZB_behavior.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BehaviorByParameterTest01" />
         <item itemvalue="Application.AnonymousClassesTest02" />
         <item itemvalue="Application.AnonymousClassesTest01" />
         <item itemvalue="Application.OuterClassesTest02" />
         <item itemvalue="Application.OuterClassesTest01" />
-        <item itemvalue="Application.GenericMethodTest01" />
       </list>
     </recent_temporary>
   </component>
