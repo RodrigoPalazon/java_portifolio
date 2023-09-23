@@ -9,7 +9,7 @@ public class LambdaTest01 {
         List<Integer> integers = List.of(1, 2, 3, 4, 5);
 
         forEach(strings, s -> System.out.println(s));
-        forEach(integers,i -> System.out.println(i));
+        forEach(integers,i   -> System.out.println(i));
     }
 
     public static <T> void forEach(List<T> list, Consumer<T> consumer){
